@@ -23,7 +23,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ============== SOZLAMALAR ==============
-BOT_TOKEN = ""
+BOT_TOKEN = "8571861434:AAHkmh3fJr6EUnMo2urLI-Trh84wE6eisqY"
 ADMIN_ID = 5964206416
 TEMPLATE_PRICE = "29 999"
 SHEETS_LINK = "https://docs.google.com/spreadsheets/d/1xwmlGXard9MiXC0r3PfKMCZ7joDhYqs3QU0AKTvEASY/edit?usp=sharing"
